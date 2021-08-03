@@ -28,7 +28,7 @@ Saving your time from manual backtesting your method.
 
 ![Alt text](docs/Step5-1.png?raw=true)
 
-## 6. Attach the Generate_MethodOptimizer script frin the NAvigator window to the chart.
+## 6. Attach the Generate_MethodOptimizer script from the Navigator window to the chart.
 
 ![Alt text](docs/Step6.png?raw=true)
 
