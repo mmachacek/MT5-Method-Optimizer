@@ -2,21 +2,21 @@
 
 # Introduction
 
-MT5 Method Optimizer is a tool to optimize your trading method. Simply place arrows on your chart to select entry candles.
+The MT5 Method Optimizer is a tool to optimize your trading method. Simply place arrows on your chart to select entry candles.
 Generate the Method Optimizer EA and find out ideal entry, stoploss, takeprofit, trailing stop etc. for your trading method through the strategy tester.
 Saving your time from manual backtesting your method.
 
 # Getting started
 
-## 1. Download MT5 Method Optimizer.
+## 1. Download the MT5 Method Optimizer.
 
 ![Alt text](docs/Step1.png?raw=true)
 
-## 2. Open MetaTrader 5 Data Folder.
+## 2. Open the MetaTrader 5 Data Folder.
 
 ![Alt text](docs/Step2.png?raw=true)
 
-## 3. Extract MQL5 folder from downloaded archive to the MetaTrader 5 Data Folder.
+## 3. Extract the MQL5 folder from downloaded archive to the MetaTrader 5 Data Folder.
 
 ![Alt text](docs/Step3.png?raw=true)
 
